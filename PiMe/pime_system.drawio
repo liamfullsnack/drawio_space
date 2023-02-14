@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T10:05:11.199Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.20" etag="i3kqgKC58dSBpmq3QooT" type="github"><diagram name="Page-1" id="btoBPyPb3MBmi9GO_00n">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-14T02:37:57.005Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="E_lNC39hivQprx4bz9_O" version="20.8.20" type="github">
+  <diagram name="Page-1" id="btoBPyPb3MBmi9GO_00n">
+    <mxGraphModel dx="904" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OVYXZK8LTD6TJlUQOYzu-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="80" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OVYXZK8LTD6TJlUQOYzu-3" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="104" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="OVYXZK8LTD6TJlUQOYzu-4" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="104" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="OVYXZK8LTD6TJlUQOYzu-5" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="104" width="50" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="OVYXZK8LTD6TJlUQOYzu-6" value="Redis Cluster" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="170" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OVYXZK8LTD6TJlUQOYzu-7" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1435" y="240" width="250" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
